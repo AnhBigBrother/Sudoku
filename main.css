@@ -1,0 +1,24 @@
+.row{
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+    margin: 1px;
+    margin-bottom: 3px;
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+    background-color: antiquewhite;
+}
+#i13, #i23, #i33, #i43, #i53, #i63, #i73, #i83, #i93, #i16, #i26, #i36, #i46, #i56, #i66, #i76, #i86, #i96{
+    margin-right: 15px;
+}
+.btn{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+.btn:hover{
+    color: white;
+    background-color: gray;
+}
